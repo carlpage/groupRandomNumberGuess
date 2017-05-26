@@ -1,0 +1,24 @@
+{
+  "name": "randomnumbergame",
+  "version": "1.0.0",
+  "description": "Team Random Number Guess =",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlpage/groupRandomNumberGuess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlpage/groupRandomNumberGuess/issues"
+  },
+  "homepage": "https://github.com/carlpage/groupRandomNumberGuess#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
